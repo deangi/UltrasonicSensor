@@ -1,0 +1,22 @@
+#######################################
+# UltrasonicHCSR04
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+UltrasonicHCSR04		KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+measureDistanceInches	KEYWORD2
+measureDistanceCM		KEYWORD2
+setSpeedOfSoundFPS		KEYWORD2
+
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
